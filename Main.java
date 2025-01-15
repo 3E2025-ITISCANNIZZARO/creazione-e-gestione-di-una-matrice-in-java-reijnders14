@@ -8,7 +8,7 @@
 //
 // Suggerimento:
 // - Utilizza la classe Random per generare numeri casuali.
-// - Per stampare la matrice, usa un ciclo annidato.
+// - Per stampare la matrice, usa un ciclo annidato. 
 
 public class Main {
     public static void main(String[] args) {
